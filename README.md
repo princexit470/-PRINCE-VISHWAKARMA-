@@ -1,6 +1,4 @@
 # -PRINCE-VISHWAKARMA-
-All in one
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
